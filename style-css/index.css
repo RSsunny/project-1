@@ -1,0 +1,31 @@
+.title-color{
+    color:rgb(223, 238, 12);
+    font-size: 50px;
+    margin: 10px;
+    text-align: center;
+}
+.borderTitle{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.add{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+#search-bar{
+    outline: none;
+}
+#comment-box{
+    border-radius: 50px;
+    outline: none;
+    
+}
+#search-bar-2{
+    outline: none;
+}
+#text-box{
+    border-radius: 50px;
+    outline: none;
+    
+}
